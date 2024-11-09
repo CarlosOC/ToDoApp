@@ -2,7 +2,7 @@
 
 ToDo List Application es una aplicación de gestión de tareas sencilla, creada con **Qt** en **C++**. Permite organizar tareas y personalizar la visualización mediante colores. Esta aplicación está diseñada para ayudar a los usuarios a gestionar y priorizar sus tareas diarias de manera efectiva.
 
-## Características V1.0
+## Características Versión 1.0
 
 - **Gestión de tareas**: Crear y eliminar tareas fácilmente.
 - **Interfaz gráfica**: Diseño limpio y fácil de usar desarrollado en Qt con colores personalizados.
