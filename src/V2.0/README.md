@@ -21,22 +21,19 @@ ToDo Application V2.0 es una aplicación de gestión de tareas desarrollada en C
 
 
 ## Requisitos
-Qt Framework: Versión 5.15 o superior.
-Compilador C++ compatible con Qt.
-Sistema Operativo: Compatible con Windows, macOS y Linux.
-Instalación
+- Qt Framework: Versión 5.15 o superior.
+- Compilador C++ compatible con Qt.
+- Sistema Operativo: Compatible con Windows, macOS y Linux.
 
-## Clonar el repositorio:
-
-git clone https://github.com/tu-usuario/ToDoListApp.git
-cd ToDoListApp
-Abrir el proyecto en Qt Creator:
-
-Abre Qt Creator.
-Selecciona "Abrir proyecto" y navega hasta el archivo .pro en el directorio del proyecto clonado.
-Compilar y Ejecutar:
-
-Compila y ejecuta el proyecto desde Qt Creator.
+## Instalación
+- **Clonar el repositorio**:
+  - git clone https://github.com/tu-usuario/ToDoListApp.git
+  - cd ToDoListApp
+  - Abrir el proyecto en Qt Creator:
+- **Abre Qt Creator**.
+  - Selecciona "Abrir proyecto" y navega hasta el archivo .pro en el directorio del proyecto clonado.
+  - Compilar y Ejecutar:
+- **Compila y ejecuta el proyecto desde Qt Creator**.
 
 ## Uso
 - **Crear una nueva tarea**:
