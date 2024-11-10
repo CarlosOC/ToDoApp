@@ -26,7 +26,7 @@ La **Versión 1.0** es la primera iteración de la aplicación ToDo. Incluye fun
 |---|---|---|
 | ![Aplicacion](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V1.0/Aplicacion.png) | ![Nueva_Tarea](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V1.0/NuevaTarea.png) | ![Tarea](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V1.0/Tarea.png) |
 
-### [Versión 2.0](./V2.0/README.md)
+### [Versión 2.0](./src/V2.0/README.md)
 
 La **Versión 2.0** introduce nuevas características, entre ellas la capacidad de clasificar tareas en diferentes estados y una interfaz de usuario más estilizada:
 - **Gestión avanzada de tareas**: Los usuarios pueden actualizar el estado de cada tarea (En Espera, En Proceso, Finalizada, Cancelada).
