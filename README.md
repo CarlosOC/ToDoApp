@@ -67,6 +67,37 @@ Las contribuciones son bienvenidas. Si deseas mejorar la funcionalidad o añadir
 - Haz push a la rama (git push origin feature/NuevaCaracteristica).
 - Abre un Pull Request.
 
+## Estructura del Proyecto
+
+ToDoListApp/
+├── src/                     
+│   ├── V1.0/                # Versión 1.0 del proyecto
+│   │     ├── README.md      # Descripción de la versión 1.0
+│   │     ├── ToDoApps.pro   # Archivo de proyecto para Qt Creator (versión 1.0)
+│   │     ├── main.cpp       # Archivo principal de la aplicación (versión 1.0)
+│   │     ├── recursos.qrc   # Recursos Qt (imágenes, iconos, etc.)
+│   │     ├── style_Generic.css # Estilos CSS generales para la interfaz
+│   │     ├── task.cpp       # Implementación de la clase Task (versión 1.0)
+│   │     ├── task.h         # Definición de la clase Task
+│   │     ├── todoapps.cpp   # Implementación de la clase ToDoApp (versión 1.0)
+│   │     ├── todoapps.h     # Definición de la clase ToDoApp
+│   │     └── todoapps.ui    # Archivo de interfaz gráfica de usuario (versión 1.0)
+│   └── V2.0/                # Versión 2.0 del proyecto
+│         ├── README.md      # Descripción de la versión 2.0
+│         ├── ToDoList.pro   # Archivo de proyecto para Qt Creator (versión 2.0)
+│         ├── listatarea.cpp # Implementación de la clase ListaTarea (versión 2.0)
+│         ├── listatarea.h   # Definición de la clase ListaTarea
+│         ├── main.cpp       # Archivo principal de la aplicación (versión 2.0)
+│         ├── resource.qrc   # Recursos Qt (imágenes, iconos, etc.) para la versión 2.0
+│         ├── tarea.cpp      # Implementación de la clase Tarea (versión 2.0)
+│         ├── tarea.h        # Definición de la clase Tarea
+│         ├── todolist.cpp   # Implementación de la clase ToDoList (versión 2.0)
+│         ├── todolist.h     # Definición de la clase ToDoList
+│         └── todolist.ui    # Archivo de interfaz gráfica de usuario (versión 2.0)
+└── README.md               # Descripción general del proyecto   
+#### Descripción de las versiones:
+  - **V1.0**: *Esta versión contiene la implementación inicial de la aplicación ToDo. Usa una estructura más simple y un diseño básico, con una interfaz gráfica que muestra las tareas con botones para gestionarlas.*
+  - **V2.0**: *Esta versión incluye mejoras en la estructura del código, la interfaz y la funcionalidad. Se introducen nuevas clases como ListaTarea, que gestionan la colección de tareas y sus estados, y una interfaz más estilizada con un sistema de tarjetas.*
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
