@@ -1,6 +1,6 @@
 # ToDo Application
 
-ToDo Application es una aplicación de gestión de tareas desarrollada en C++ utilizando el framework Qt. La aplicación permite a los usuarios organizar y administrar tareas de manera visual y sencilla, proporcionando un entorno con una interfaz de usuario atractiva. Este repositorio contiene dos versiones de la aplicación, cada una con características y mejoras específicas.
+**ToDo Application** es una aplicación de gestión de tareas desarrollada en C++ utilizando el framework Qt. La aplicación permite a los usuarios organizar y administrar tareas de manera visual y sencilla, proporcionando un entorno con una interfaz de usuario atractiva. Este repositorio contiene dos versiones de la aplicación, cada una con características y mejoras específicas.
 
 ## Descripción General
 La aplicación permite la gestión de tareas mediante tarjetas visuales, con una interfaz que facilita la creación, actualización y eliminación de tareas. El diseño de la interfaz se basa en un sistema de tarjetas que organiza las tareas en diferentes estados. La personalización de estilos se realiza a través de archivos CSS, permitiendo modificar los colores y la apariencia general de la aplicación.
@@ -16,18 +16,28 @@ La aplicación permite la gestión de tareas mediante tarjetas visuales, con una
 - **Interfaz de usuario personalizada**: Tarjetas estilizadas para mejorar la experiencia visual.
 - **Estilización CSS**: Colores y diseño personalizables mediante archivos CSS.
 
-## Versión 1.0
-La Versión 1.0 es la primera iteración de la aplicación ToDo. Incluye funcionalidades básicas de gestión de tareas:
+### [Versión 1.0](./V1.0/README.md)
+La **Versión 1.0** es la primera iteración de la aplicación ToDo. Incluye funcionalidades básicas de gestión de tareas:
 - **Añadir y eliminar tareas**: Los usuarios pueden crear nuevas tareas y eliminarlas de la lista.
 - **Tarjetas básicas**: Cada tarea se muestra en una tarjeta que incluye el título, descripción y un botón para eliminarla.
 - **Estilización básica**: Se utiliza un archivo CSS (style_Generic.css) para definir los colores y el diseño de las tarjetas de tareas.
-## Versión 2.0
+#### Capturas de Pantalla de la Versión 1.0
+| **Aplicacion** | **Nueva Tarea** | **Tarea** |
+|---|---|---|
+| ![Aplicacion](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V1.0/Aplicacion.png) | ![Nueva_Tarea](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V1.0/NuevaTarea.png) | ![Tarea](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V1.0/Tarea.png) |
 
-La Versión 2.0 introduce nuevas características, entre ellas la capacidad de clasificar tareas en diferentes estados y una interfaz de usuario más estilizada:
+### [Versión 2.0](./V2.0/README.md)
+
+La **Versión 2.0** introduce nuevas características, entre ellas la capacidad de clasificar tareas en diferentes estados y una interfaz de usuario más estilizada:
 - **Gestión avanzada de tareas**: Los usuarios pueden actualizar el estado de cada tarea (En Espera, En Proceso, Finalizada, Cancelada).
 - **Tarjetas con estados**: Las tarjetas de tareas incluyen botones para cambiar su estado.
 - **Personalización de estilos**: Las tarjetas se pueden personalizar en cuanto a colores y diseño mediante un archivo CSS más completo.
 - **Organización de tareas**: Las tareas se agrupan automáticamente por estado y el diseño de las tarjetas se adapta a cada uno de ellos.
+
+#### Capturas de Pantalla de la Versión 2.0
+| **Tareas Realizandose** | **Tareas en Espera** | **Tareas Finalizadas** | **Tareas Canceladas** |
+|---|---|---|---|
+| ![Tareas_Realizandose](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V2.0/Aplicacion_Realizandose.png) | ![Tareas_EnEspera](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V2.0/Aplicacion_EnEspera.png) | ![Tareas_Finalizadas](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V2.0/Aplicacion_Finalizada.png) | ![Tareas_Canceladas](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V2.0/Aplicacion_Cancelada.png) |
 ## Requisitos
 
 - **Qt Framework**: Versión 5.15 o superior.
