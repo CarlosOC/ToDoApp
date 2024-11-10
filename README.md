@@ -68,7 +68,7 @@ Las contribuciones son bienvenidas. Si deseas mejorar la funcionalidad o añadir
 - Abre un Pull Request.
 
 ## Estructura del Proyecto
-
+```
 ToDoListApp/
 ├── src/                     
 │   ├── V1.0/                # Versión 1.0 del proyecto
@@ -94,7 +94,8 @@ ToDoListApp/
 │         ├── todolist.cpp   # Implementación de la clase ToDoList (versión 2.0)
 │         ├── todolist.h     # Definición de la clase ToDoList
 │         └── todolist.ui    # Archivo de interfaz gráfica de usuario (versión 2.0)
-└── README.md               # Descripción general del proyecto   
+└── README.md               # Descripción general del proyecto
+```
 #### Descripción de las versiones:
   - **V1.0**: *Esta versión contiene la implementación inicial de la aplicación ToDo. Usa una estructura más simple y un diseño básico, con una interfaz gráfica que muestra las tareas con botones para gestionarlas.*
   - **V2.0**: *Esta versión incluye mejoras en la estructura del código, la interfaz y la funcionalidad. Se introducen nuevas clases como ListaTarea, que gestionan la colección de tareas y sus estados, y una interfaz más estilizada con un sistema de tarjetas.*
