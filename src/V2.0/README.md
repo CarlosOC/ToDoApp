@@ -59,6 +59,16 @@ Para modificar los estilos de las tarjetas de tareas y otros elementos de la int
 - **#F4A261**: Color para el botón Eliminar.
 - **#E76F51**: Color para el estado Cancelado.
 
+## Estructura del Proyecto
+- **main.cpp**: El archivo de entrada de la aplicación, que inicia el programa.
+- **tarea.cpp y tarea.h**: Definen la clase Tarea, que contiene los atributos y métodos para gestionar las tareas.
+- **listatarea.cpp y listatarea.h**: Definen la clase ListaTarea, que gestiona la colección de tareas y sus estados.
+- **todolist.cpp y todolist.h**: Definen la clase principal ToDoList, que maneja la interfaz gráfica y la interacción con el usuario.
+- **style.css**: Contiene los estilos personalizados en CSS para la apariencia visual de la aplicación.
+- **resource.qrc**: Un archivo Qt Resource para empaquetar imágenes o íconos que se usan en la aplicación.
+- **todolist.ui**: El archivo de diseño de la interfaz de usuario, donde se definen los widgets y sus disposiciones.
+- **ToDoList.pro**: El archivo de proyecto de Qt Creator, que contiene configuraciones necesarias para compilar y ejecutar el proyecto.
+
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas mejorar la funcionalidad o añadir nuevas características, sigue estos pasos:
 
