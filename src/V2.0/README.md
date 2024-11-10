@@ -17,7 +17,7 @@ Personalización de colores: Las tarjetas tienen colores personalizados que mejo
 ## Capturas de Pantalla
 | **Tareas Realizandose** | **Tareas en Espera* | **Tareas Finalizadas** | **Tareas Canceladas** |
 |---|---|---|---|
-| ![Tareas_Realizandose](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V2.0/Aplicacion_Realizandose.png) | ![Tareas_EnEspera](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V2.0/Aplicacion_Espera.png) | ![Tareas_Finalizadas](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V2.0/Aplicacion_Finalizadas.png) | ![Tareas_Canceladas](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V2.0/Aplicacion_Canceladas.png) |
+| ![Tareas_Realizandose](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V2.0/Aplicacion_Realizandose.png) | ![Tareas_EnEspera](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V2.0/Aplicacion_EnEspera.png) | ![Tareas_Finalizadas](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V2.0/Aplicacion_Finalizada.png) | ![Tareas_Canceladas](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V2.0/Aplicacion_Cancelada.png) |
 
 
 ## Requisitos
