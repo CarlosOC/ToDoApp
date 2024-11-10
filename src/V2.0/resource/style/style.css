@@ -1,0 +1,95 @@
+/* Estilos generales */
+QWidget {
+    background-color: #264653;
+}
+
+/* Estilo para los QPushButton */
+QPushButton {
+    color: white;
+    background-color: #2A9D8F;
+    border-radius: 5px;
+    border: 1px solid #2A9D8F;
+}
+
+QPushButton:hover {
+    background-color: #E9C46A;
+    border-color: #E9C46A;
+}
+
+QPushButton:pressed {
+    background-color: #F4A261;
+    border-color: #F4A261;
+}
+
+/* Estilo para los QLabel */
+QLabel#label_titulo {
+    color: #E76F51;
+    font: bold 12pt "Verdana";
+}
+QLabel#label_time{
+    color: white;
+    font: italic 8pt "Verdana";
+}
+QLabel#label_nombreTarea,QLabel#label_estado,QLabel#label_descripcion{
+    color: white;
+    font: bold 10pt "Verdana";
+}
+/* Estilo para los QLineEdit */
+QLineEdit {
+    background-color: white;
+    color: #264653;
+    border: 1px solid #2A9D8F;
+    border-radius: 5px;
+}
+
+/* Estilo para los QComboBox */
+QComboBox {
+    background-color: white;
+    color: #264653;
+    border: 1px solid #2A9D8F;
+    border-radius: 5px;
+}
+QComboBox QAbstractItemView {
+    background-color: #2A9D8F;
+    color: white;
+    selection-background-color: #E76F51;
+    selection-color: black;
+}
+/* Estilo para QDateTimeEdit */
+QDateTimeEdit {
+    background-color: white;
+    color: #264653;
+    border: 1px solid #2A9D8F;
+    border-radius: 5px;
+}
+
+/* Estilo para QPlainTextEdit */
+QPlainTextEdit {
+    background-color: white;
+    color: #264653;
+    border: 1px solid #2A9D8F;
+    border-radius: 5px;
+}
+
+/* Estilo para los QTabWidget */
+QTabWidget::pane {
+    border: 1px solid #264653;
+}
+
+QTabBar::tab {
+    background: #2A9D8F;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+QTabBar::tab:selected {
+    background-color: #E9C46A;
+    color: black;
+}
+
+/* Scroll Area */
+QScrollArea {
+    background-color: #264653;
+    border: 1px solid #2A9D8F;
+}
