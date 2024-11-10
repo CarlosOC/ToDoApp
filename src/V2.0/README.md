@@ -15,7 +15,7 @@ Botones de acción para cambiar el estado de la tarea
 Personalización de colores: Las tarjetas tienen colores personalizados que mejoran la experiencia visual y permiten diferenciar entre los estados de las tareas.
 
 ## Capturas de Pantalla
-| **Tareas Realizandose** | **Tareas en Espera* | **Tareas Finalizadas** | **Tareas Canceladas** |
+| **Tareas Realizandose** | **Tareas en Espera** | **Tareas Finalizadas** | **Tareas Canceladas** |
 |---|---|---|---|
 | ![Tareas_Realizandose](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V2.0/Aplicacion_Realizandose.png) | ![Tareas_EnEspera](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V2.0/Aplicacion_EnEspera.png) | ![Tareas_Finalizadas](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V2.0/Aplicacion_Finalizada.png) | ![Tareas_Canceladas](https://github.com/CarlosOC/ToDoApp/blob/main/imagenes/V2.0/Aplicacion_Cancelada.png) |
 
