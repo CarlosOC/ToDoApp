@@ -41,6 +41,14 @@ La apariencia de la aplicación se controla mediante el archivo de estilo style_
   - Color de fondo de las tarjetas de tarea.
   - Estilos de los botones: Color de fondo, color de hover y bordes.
   - Texto: Fuente y tamaño del texto de los títulos y descripciones de las tareas.
+## Estructura del Proyecto
+El proyecto tiene la siguiente estructura de archivos:
+- **todoapps.pro**: Archivo de proyecto de Qt que contiene las configuraciones necesarias para compilar la aplicación.
+- **todoapps.ui**: Diseño de la interfaz de usuario (UI) realizado en Qt Designer.
+- **task.h y task.cpp**: Definición e implementación de la clase Task que representa una tarea.
+- **todoapps.h y todoapps.cpp**: Archivos de definición e implementación de la clase principal que gestiona la interfaz de usuario y las tareas.
+- **style_Generic.css**: Archivo de estilo que personaliza la apariencia de la interfaz.
+- **main.cpp**: El punto de entrada de la aplicación, donde se inicializa la interfaz de usuario y se ejecuta la aplicación.
 
 ##  Contribuciones
 Las contribuciones son bienvenidas. Si deseas mejorar o agregar funcionalidades:
