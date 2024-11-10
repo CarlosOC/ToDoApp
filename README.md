@@ -16,7 +16,7 @@ La aplicación permite la gestión de tareas mediante tarjetas visuales, con una
 - **Interfaz de usuario personalizada**: Tarjetas estilizadas para mejorar la experiencia visual.
 - **Estilización CSS**: Colores y diseño personalizables mediante archivos CSS.
 
-### [Versión 1.0](./V1.0/README.md)
+### [Versión 1.0](./src/V1.0/README.md)
 La **Versión 1.0** es la primera iteración de la aplicación ToDo. Incluye funcionalidades básicas de gestión de tareas:
 - **Añadir y eliminar tareas**: Los usuarios pueden crear nuevas tareas y eliminarlas de la lista.
 - **Tarjetas básicas**: Cada tarea se muestra en una tarjeta que incluye el título, descripción y un botón para eliminarla.
