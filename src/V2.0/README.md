@@ -4,14 +4,14 @@ ToDo Application V2.0 es una aplicación de gestión de tareas desarrollada en C
 ## Características
 - **Gestión de tareas**: Crear y eliminar tareas con un solo clic.
 - **Estados de tareas**: Cada tarea puede tener uno de los siguientes estados:
--- En Espera
--- En Proceso
--- Finalizada
--- Cancelada
+  - En Espera
+  - En Proceso
+  - Finalizada
+  - Cancelada
 - **Interfaz visual de tarjetas**: Cada tarea se muestra en una "tarjeta" con un diseño estilizado que incluye:
--- Título y Descripción de la tarea
--- Fecha de la tarea
--- Botones de acción para cambiar el estado de la tarea
+  - Título y Descripción de la tarea
+  - Fecha de la tarea
+  - Botones de acción para cambiar el estado de la tarea
 - **Personalización de colores**: Las tarjetas tienen colores personalizados que mejoran la experiencia visual y permiten diferenciar entre los estados de las tareas.
 
 ## Capturas de Pantalla
@@ -39,18 +39,17 @@ Compilar y Ejecutar:
 Compila y ejecuta el proyecto desde Qt Creator.
 
 ## Uso
-Crear una nueva tarea:
-
+- **Crear una nueva tarea**:
 Ingresa el nombre, la fecha y selecciona un estado inicial.
 La tarea se mostrará en la lista de tareas en el estado correspondiente.
 
-**Actualizar el estado de la tarea**:
+- **Actualizar el estado de la tarea**:
 Usa los botones En Proceso, Finalizar, o Cancelar para mover la tarea a otro estado.
 
-**Eliminar tarea**:
+- **Eliminar tarea**:
 Cada tarea tiene un botón de eliminación para removerla de la lista.
 
-**Interfaz visual**:
+- **Interfaz visual**:
 Las tareas se muestran en tarjetas con un diseño estilizado.
 Las tarjetas se ordenan automáticamente para que cada tarea se muestre primero, seguida de un espaciador para mantener la estructura del layout.
 
@@ -66,11 +65,11 @@ Para modificar los estilos de las tarjetas de tareas y otros elementos de la int
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas mejorar la funcionalidad o añadir nuevas características, sigue estos pasos:
 
-Haz un fork del repositorio.
-Crea una nueva rama (git checkout -b feature/NuevaCaracteristica).
-Haz commit de tus cambios (git commit -am 'Agrega nueva característica').
-Haz push a la rama (git push origin feature/NuevaCaracteristica).
-Abre un Pull Request.
+- Haz un fork del repositorio.
+- Crea una nueva rama (git checkout -b feature/NuevaCaracteristica).
+- Haz commit de tus cambios (git commit -am 'Agrega nueva característica').
+- Haz push a la rama (git push origin feature/NuevaCaracteristica).
+- Abre un Pull Request.
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
